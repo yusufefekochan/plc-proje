@@ -26,10 +26,15 @@ Amaç, **Factory I/O** ortamında oluşturulan konveyör hattında kutuları **a
 ---
 
 ## 📂 Klasör Yapısı
+
 ├─ plc/ # Ladder diyagram ve TIA Portal proje dosyaları
+
 ├─ hmi/ # HMI ekran tasarımları (WinCC)
+
 ├─ factoryio/ # Factory I/O sahne dosyası (.scene)
+
 ├─ docs/ # Rapor, PDF dokümanı, ekran görüntüleri
+
 
 
 ---
